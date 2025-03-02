@@ -182,7 +182,7 @@
     },
     "@nx/powerpack-enterprise-cloud"
   ],
-  "nxCloudId": "67c3d10b2152080eb3e132b6",
+  "nxCloudId": "67c3d71bda66fe6aba435f18",
   "nxCloudUrl": "https://staging.nx.app",
   "parallel": 1,
   "bust": 5,
